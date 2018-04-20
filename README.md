@@ -12,13 +12,12 @@ telegram: @king_menin
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------|
 | занятие 1 (21 апреля)  | Введение: задачи автоматической обработки текстов и основные подходы к их решению. Токенизация, морфологический анализ. Sequence labeling  | Регулярные выражения, лемматизация, POS-тэггинг, морфологический анализ. | Генерация текста по шаблону. Извлечение телефонных номеров из текста.   
 
-|
 
-## 14 марта
+## 21 апреля
 
-Данные к занятию: [git]()
+Данные к занятию лежат в папке: [git:sem1](https://github.com/king-menin/nlp-course/tree/master/sem%201)
 
-Лекция 1: [intro.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%201.%20intro%20to%20nlp/intro.pdf), лекция 2: (morphology.pdf)[https://github.com/king-menin/nlp-course/blob/master/lecture%202.%20morphology/morphology.pdf]  практика [sem1.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%201/sem1.ipynb), домашнее задание: [hw1.ipynb](https://github.com/king-menin/nlp-course/blob/master/hw1/hw1.ipynb)
+Лекция 1: [intro.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%201.%20intro%20to%20nlp/intro.pdf), лекция 2: [morphology.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%202.%20morphology/morphology.pdf),  практика [sem1.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%201/sem1.ipynb), домашнее задание: [hw1.ipynb](https://github.com/king-menin/nlp-course/blob/master/hw1/hw1.ipynb)
 
 Необходимые библиотеки Python:
 * nltk; после установки nltk необходимо из командной строки Python3 вызвать команды
