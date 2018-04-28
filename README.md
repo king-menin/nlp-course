@@ -38,7 +38,9 @@ nltk.download('punkt')
 
 Данные к занятию лежат в папке: [git:sem2](https://github.com/king-menin/nlp-course/tree/master/sem%202)
 
-Лекция 3: [topic modeling.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%203.%topic%20modeling/topic%20modeling.pdf),  практика [topic modeling.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%202/topic20modeling.ipynb) или (для тех, кто хочет выполнять семинары онлайн) [topic modeling.ipynb](https://drive.google.com/file/d/18QKAqSRyHxueej6XBSNLcEgY9Fr7_kAO/view?usp=sharing), домашнее задание: [hw2.ipynb](https://github.com/king-menin/nlp-course/blob/master/hw2/hw2.ipynb)
+Лекция 3: [topic modeling.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%203.%20topic%20modeling/topic%20modeling.pdf),  практика [topic modeling.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%202/topic_modeling.ipynb) или (для тех, кто хочет выполнять семинары онлайн) [topic modeling.ipynb](https://drive.google.com/file/d/18QKAqSRyHxueej6XBSNLcEgY9Fr7_kAO/view?usp=sharing)
+
+Лекция 4: [classification.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%204.%20topic%20modeling/classification.pdf),  практика [classification.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%202/classification.ipynb) или (для тех, кто хочет выполнять семинары онлайн) [classification.ipynb](https://drive.google.com/file/d/1I9qBSkgILoLl0fLtm7Mqrl6L3xBv3IOr/view?usp=sharing), данные [data-train.txt](https://drive.google.com/file/d/19e2fOFpykP4iWCCCxzlJraAilvnVb1m9/view?usp=sharing)
 
 Необходимые библиотеки Python:
 * nltk; после установки nltk необходимо из командной строки Python3 вызвать команды
