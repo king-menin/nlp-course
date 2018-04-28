@@ -11,6 +11,7 @@ telegram: @king_menin
 |                       | Лекции                                                                                                                                           | Практика                                                    | Домашнее  задание                                                   |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------|
 | занятие 1 (21 апреля)  | Введение: задачи автоматической обработки текстов и основные подходы к их решению. Токенизация, морфологический анализ. Sequence labeling  | Регулярные выражения, лемматизация, POS-тэггинг, морфологический анализ. | Генерация текста по шаблону. Извлечение телефонных номеров из текста.   
+| занятие 2 (28 апреля)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций| 
 
 
 ## 21 апреля
@@ -30,6 +31,29 @@ nltk.download('punkt')
 * matplotlib
 * pandas
 * sklearn
+
+## 28 апреля
+
+Данные к занятию лежат в папке: [git:sem2](https://github.com/king-menin/nlp-course/tree/master/sem%202)
+
+Лекция 3: [topic modeling.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%203.%topic%20modeling/topic%20modeling.pdf),  практика [topic modeling.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%202/topic20modeling.ipynb) или (для тех, кто хочет выполнять семинары онлайн) [topic modeling.ipynb](https://drive.google.com/file/d/18QKAqSRyHxueej6XBSNLcEgY9Fr7_kAO/view?usp=sharing), домашнее задание: [hw2.ipynb](https://github.com/king-menin/nlp-course/blob/master/hw2/hw2.ipynb)
+
+Необходимые библиотеки Python:
+* nltk; после установки nltk необходимо из командной строки Python3 вызвать команды
+```python
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+```
+* pymorphy2
+* matplotlib
+* pandas
+* sklearn
+* pymystem3
+* python-rake
+* wordcloud
+* gensim
+* pyLDAvis
 
 
 
