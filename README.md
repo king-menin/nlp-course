@@ -11,7 +11,7 @@ telegram: @king_menin
 |                       | Лекции                                                                                                                                           | Практика                                                    | Домашнее  задание                                                   |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------|
 | занятие 1 (21 апреля)  | Введение: задачи автоматической обработки текстов и основные подходы к их решению. Токенизация, морфологический анализ. Sequence labeling  | Регулярные выражения, лемматизация, POS-тэггинг, морфологический анализ. | Генерация текста по шаблону. Извлечение телефонных номеров из текста.   
-| занятие 2 (28 апреля)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций. Классификация.| 
+| занятие 2 (28 апреля)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций. Классификация.| Тематическиф анализ коллекции
 
 
 ## 21 апреля
@@ -40,7 +40,7 @@ nltk.download('punkt')
 
 Лекция 3: [topic modeling.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%203.%20topic%20modeling/topic%20modeling.pdf),  практика [topic modeling.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%202/topic_modeling.ipynb) или (для тех, кто хочет выполнять семинары онлайн) [topic modeling.ipynb](https://drive.google.com/file/d/18QKAqSRyHxueej6XBSNLcEgY9Fr7_kAO/view?usp=sharing)
 
-Лекция 4: [classification.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%204.%20classification/classification.pdf),  практика [classification.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%202/classification.ipynb) или (для тех, кто хочет выполнять семинары онлайн) [classification.ipynb](https://drive.google.com/file/d/1I9qBSkgILoLl0fLtm7Mqrl6L3xBv3IOr/view?usp=sharing), данные [data-train.txt](https://drive.google.com/file/d/19e2fOFpykP4iWCCCxzlJraAilvnVb1m9/view?usp=sharing)
+Лекция 4: [classification.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%204.%20classification/classification.pdf),  практика [classification.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%202/classification.ipynb) или (для тех, кто хочет выполнять семинары онлайн) [classification.ipynb](https://drive.google.com/file/d/1I9qBSkgILoLl0fLtm7Mqrl6L3xBv3IOr/view?usp=sharing), данные [data-train.txt](https://drive.google.com/file/d/19e2fOFpykP4iWCCCxzlJraAilvnVb1m9/view?usp=sharing), домашнее задание: [hw2.ipynb](https://github.com/king-menin/nlp-course/blob/master/hw2/hw2.ipynb)
 
 Необходимые библиотеки Python:
 * nltk; после установки nltk необходимо из командной строки Python3 вызвать команды
