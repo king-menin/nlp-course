@@ -60,6 +60,20 @@ nltk.download('punkt')
 * pyLDAvis
 * fasttext (не путайте с fastText)
 
+## 12 мая
+
+Данные к занятию лежат в папке: [ru.vec](https://www.dropbox.com/s/0x7oxso6x93efzj/ru.tar.gz), [all.txt](https://www.dropbox.com/s/ksm21a8y6lgl511/all.txt.zip?dl=0)
+
+Лекция 5: [distributive semantic.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%205.%20distibutive%20semantic/distributive%20semantic.pdf),  практика [ds.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%203/ds.ipynb), домашнее задание: [hw3.ipynb](https://github.com/king-menin/nlp-course/blob/master/hw3/hw3.ipynb)
+
+Необходимые библиотеки Python:
+* gensim
+* [pydsm](https://github.com/jimmycallin/pydsm)
+* pyemd
+* matplotlib
+* sklearn
+* numpy
+
 
 
 
