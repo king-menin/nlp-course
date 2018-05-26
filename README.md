@@ -13,6 +13,7 @@ telegram: @king_menin
 | занятие 1 (21 апреля)  | Введение: задачи автоматической обработки текстов и основные подходы к их решению. Токенизация, морфологический анализ. Sequence labeling  | Регулярные выражения, лемматизация, POS-тэггинг, морфологический анализ. | Генерация текста по шаблону. Извлечение телефонных номеров из текста.   
 | занятие 2 (28 апреля)  | Тематическое моделирование  | Применение тематического моделирования и визуализация коллекций. Классификация.| Тематический анализ коллекции
 | занятие 3 (12 мая)  | Дистрибутивная семантика. | Исследование подходов к построению векторов слов. | Применение эмбеддингов слов.
+| занятие 4 (26 мая)  | Нейронные сети. | Классификация и генерация текстов с помощью нейронных сетей. | Предсказание цены акции по новостям.
 
 
 ## 21 апреля
@@ -79,7 +80,7 @@ nltk.download('punkt')
 
 Данные к занятию лежат в папке: [ru.vec](https://www.dropbox.com/s/0x7oxso6x93efzj/ru.tar.gz), [dinos.txt](https://www.dropbox.com/s/e0v7ex10s5kfu0y/dinos.txt?dl=0), [articles_lemmatized_noSW.csv](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0&preview=articles_lemmatized_noSW.csv)
 
-Лекция 6: [neural networks on nlp.pdf](),  практика [4_RU_FNN_CNN.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%204/4_RU_FNN_CNN.ipynb), [5_LM.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%204/5_LM.ipynb)
+Лекция 6: [neural networks on nlp.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%206.%20neural%20networks%20in%20nlp/neural%20networks%20on%20nlp.pdf),  практика [4_RU_FNN_CNN.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%204/4_RU_FNN_CNN.ipynb), [5_LM.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%204/5_LM.ipynb)
 
 Необходимые библиотеки Python:
 * gensim
