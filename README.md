@@ -66,7 +66,7 @@ nltk.download('punkt')
 
 Данные к занятию лежат в папке: [ru.vec](https://www.dropbox.com/s/0x7oxso6x93efzj/ru.tar.gz), [all.txt](https://www.dropbox.com/s/ksm21a8y6lgl511/all.txt.zip?dl=0)
 
-Лекция 5: [distributive semantic.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%205.%20distibutive%20semantic/distributive%20semantic.pdf),  практика [ds.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%203/ds.ipynb), домашнее задание: [hw3.ipynb](https://github.com/king-menin/nlp-course/blob/master/hw3/hw3.ipynb)
+Лекция 5: [distributive semantic.pdf](https://github.com/king-menin/nlp-course/blob/master/lecture%205.%20distibutive%20semantic/distributive%20semantic.pdf),  практика [ds.ipynb](https://github.com/king-menin/nlp-course/blob/master/sem%203/ds.ipynb)
 
 Необходимые библиотеки Python:
 * gensim
@@ -89,6 +89,9 @@ nltk.download('punkt')
 * keras
 * pandas
 
+## Финальное домашнее задание
+
+[hw3-4.ipynb](https://github.com/king-menin/nlp-course/blob/master/hw3-4/hw3-4.ipynb)
 
 
 
